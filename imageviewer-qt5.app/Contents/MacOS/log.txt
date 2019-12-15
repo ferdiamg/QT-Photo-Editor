@@ -1,0 +1,15 @@
+Logging: 
+
+geladen: /Users/ferdiarmagan/Pictures/image.jpg
+Example algorithm applied!
+Uebung1c algorithm (red) applied!
+Doing slider method!
+Doing slider method!
+Doing slider method!
+Example algorithm applied!
+Doing slider method!
+Doing slider method!
+Doing slider method!
+Doing checkbox method!
+Doing checkbox method!
+Doing checkbox method!
